@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "SF Thonburi";
+    src: url("https://db.onlinewebfonts.com/t/420fa5a713e94430c458a384a13879b4.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "SF Thonburi";
+    src: url("https://db.onlinewebfonts.com/t/45c4b22090a9c3a5e734d40c4423db4e.woff2") format("woff2");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "SF Thonburi";
+    src: url("https://db.onlinewebfonts.com/t/4c4c4300167e23d01be8bf3fa6b41fec.woff2") format("woff2");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
